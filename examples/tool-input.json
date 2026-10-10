@@ -1,0 +1,27 @@
+{
+  "unit": "ms",
+  "baseline": [
+    {
+      "id": "a",
+      "conditions": "low-load",
+      "value": 100
+    },
+    {
+      "id": "b",
+      "conditions": "low-load",
+      "value": 110
+    }
+  ],
+  "trial": [
+    {
+      "id": "b",
+      "conditions": "low-load",
+      "value": 90
+    },
+    {
+      "id": "a",
+      "conditions": "low-load",
+      "value": 95
+    }
+  ]
+}
